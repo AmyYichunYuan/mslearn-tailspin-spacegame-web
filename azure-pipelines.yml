@@ -7,7 +7,7 @@ trigger:
 - build-agent
 
 pool:
-  name: Azure Pipelines
+  name: Hosted Agent
 
 variables:
   buildConfiguration: 'Release'
