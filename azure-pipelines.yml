@@ -7,7 +7,7 @@ trigger:
 - build-agent
 
 pool:
-  name: Default
+  name: Azure Pipelines
 
 variables:
   buildConfiguration: 'Release'
